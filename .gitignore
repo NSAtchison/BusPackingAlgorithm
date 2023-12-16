@@ -1,0 +1,8 @@
+bin/*
+.vscode/*
+*.exe
+*.json
+outputfiles/
+build/
+main.spec
+!dist/main.exe
